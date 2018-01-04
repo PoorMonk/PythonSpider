@@ -6,5 +6,5 @@
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-.idea/
-/venv/
+*/.idea/
+*/venv/
